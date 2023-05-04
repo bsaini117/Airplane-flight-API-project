@@ -2,8 +2,8 @@ from twilio.rest import Client
 import requests
 import smtplib
 
-ACT_SID = "ACc29cfb9acc94e19b7d7196775d863aba"
-AUTH_TOKEN = "403ab48cbc17de3f3a1385f1bad7e135"
+ACT_SID = "INSERT API"
+AUTH_TOKEN = "INSERT API"
 SHEETY_ENDPOINT = "https://api.sheety.co/a5b9f38df3cc01445d54b5e990cb5e1d/flightDealsProgram/users"
 
 MY_EMAIL = "bhavesh.sainitestact@gmail.com"
