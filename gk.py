@@ -2,7 +2,7 @@ import requests
 from pprint import pprint
 
 tequila_endpoint = "https://api.tequila.kiwi.com/v2/search?"
-header = {"apikey": "u0ccWFt5jOLqW6xPo22RxfJHUvBOaeyq",
+header = {"apikey": "INSERT API",
           "Content-Type": "json"}
 
 params = {"fly_from":"LON" ,
