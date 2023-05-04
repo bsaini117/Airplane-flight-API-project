@@ -7,7 +7,7 @@ AUTH_TOKEN = "INSERT API"
 SHEETY_ENDPOINT = "https://api.sheety.co/a5b9f38df3cc01445d54b5e990cb5e1d/flightDealsProgram/users"
 
 MY_EMAIL = "bhavesh.sainitestact@gmail.com"
-MY_PASSWORD = "lbclywructzplhva"
+MY_PASSWORD = "INSERT PASSWORD"
 
 
 class NotificationManager:
