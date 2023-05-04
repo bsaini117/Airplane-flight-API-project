@@ -3,7 +3,7 @@ from flight_data import FlightData
 
 
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "u0ccWFt5jOLqW6xPo22RxfJHUvBOaeyq"
+TEQUILA_API_KEY = "INSERT API"
 
 
 
